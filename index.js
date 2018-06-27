@@ -1,8 +1,7 @@
 // a reference to the enclosing scene element.
 // We will append newly made spheres directly to this.
 const SCENE = document.querySelector('a-scene')
-
-// a few random starting positions we can use to make spheres.
+      
 const startPositions = [
   [-3, -2, -4],
   [-1, 5, 2],
